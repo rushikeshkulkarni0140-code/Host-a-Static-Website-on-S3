@@ -1,1 +1,0 @@
-# Host-a-Static-Website-on-S3
